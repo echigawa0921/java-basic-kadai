@@ -20,5 +20,4 @@ public class KatoExec_Chapter17 {
 		hanako.execIntroduce();
 		System.out.println();
 	}
-
 }
